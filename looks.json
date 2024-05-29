@@ -1,0 +1,86 @@
+[
+    {
+        "look_id": 1,
+        "camisa": "Camisa social branca",
+        "camada_intermediaria": "Camisa social azul clara",
+        "calca": "Calça chino bege",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 2,
+        "camisa": "Camisa social branca",
+        "camada_intermediaria": "Camisa social azul clara",
+        "calca": "Calça chino marrom",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 3,
+        "camisa": "Polo preta",
+        "camada_intermediaria": "T-shirt cinza",
+        "calca": "Calça jeans escura",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 4,
+        "camisa": "Polo preta",
+        "camada_intermediaria": "T-shirt cinza",
+        "calca": "Calça chino marrom",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 5,
+        "camisa": "Camisa social branca",
+        "camada_intermediaria": "Suéter cinza",
+        "calca": "Calça chino bege",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 6,
+        "camisa": "Camisa social branca",
+        "camada_intermediaria": "Suéter cinza",
+        "calca": "Calça chino marrom",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 7,
+        "camisa": "Camisa social azul clara",
+        "camada_intermediaria": "T-shirt cinza",
+        "calca": "Calça jeans escura",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 8,
+        "camisa": "Camisa social azul clara",
+        "camada_intermediaria": "T-shirt cinza",
+        "calca": "Calça chino marrom",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 9,
+        "camisa": "Polo preta",
+        "camada_intermediaria": "Suéter cinza",
+        "calca": "Calça chino bege",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 10,
+        "camisa": "Polo preta",
+        "camada_intermediaria": "Suéter cinza",
+        "calca": "Calça chino marrom",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 11,
+        "camisa": "Camisa social azul clara",
+        "camada_intermediaria": "Suéter cinza",
+        "calca": "Calça chino bege",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    },
+    {
+        "look_id": 12,
+        "camisa": "Camisa social azul clara",
+        "camada_intermediaria": "Suéter cinza",
+        "calca": "Calça chino marrom",
+        "camisa_xadrez": "Camisa xadrez em tons neutros (preto, branco e cinza)"
+    }
+]
